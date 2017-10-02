@@ -3,4 +3,7 @@ function add(x,y){
   return sum
 }
 
-console.log(add (6,5));
+function subtract(a,b) {
+  var diff = a - b;
+  return diff;
+}
